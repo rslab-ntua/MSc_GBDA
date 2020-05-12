@@ -1,0 +1,42 @@
+train_size: 18900
+test_size: 4050
+valid_size: 4050
+TRAIN
+ {
+  "AnnualCrop": 2093,
+  "Forest": 2084,
+  "HerbaceousVegetation": 2062,
+  "Highway": 1759,
+  "Industrial": 1767,
+  "Pasture": 1394,
+  "PermanentCrop": 1755,
+  "Residential": 2103,
+  "River": 1766,
+  "SeaLake": 2117
+}
+TEST
+ {
+  "AnnualCrop": 452,
+  "Forest": 462,
+  "HerbaceousVegetation": 479,
+  "Highway": 378,
+  "Industrial": 367,
+  "Pasture": 284,
+  "PermanentCrop": 390,
+  "Residential": 456,
+  "River": 375,
+  "SeaLake": 407
+}
+VALID
+ {
+  "AnnualCrop": 455,
+  "Forest": 454,
+  "HerbaceousVegetation": 459,
+  "Highway": 363,
+  "Industrial": 366,
+  "Pasture": 322,
+  "PermanentCrop": 355,
+  "Residential": 441,
+  "River": 359,
+  "SeaLake": 476
+}
